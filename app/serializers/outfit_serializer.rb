@@ -1,5 +1,4 @@
 class OutfitSerializer < ActiveModel::Serializer
-  attributes :id, :shirts, :bottoms, :outterwear
+  attributes :id, :top, :bottom, :outerwear, :""
   has_one :weather
-  has_one :user
 end
