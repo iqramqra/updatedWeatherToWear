@@ -1,24 +1,33 @@
-# README
+Welcome to Weather to Wear, an application that helps you choose your outfit based on the weather conditions around you!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The main feature of this app is that you are able to virtually store your closet by uploading pictures, which are used to recommend your outfits!
 
-Things you may want to cover:
+# USER STORY 
 
-* Ruby version
+As a user you are able to create an account.
 
-* System dependencies
+As a user you are able to add your closet to your profile page.
 
-* Configuration
+As a user you are able to update the catagory of the artical of    clothing.
 
-* Database creation
+As a user you will be recommeneded outfits bases on the weather conditions and the catagory of your clothing.
 
-* Database initialization
+As a user you are able to delete a pieace of cloathing from your virtual closet.
 
-* How to run the test suite
+## Tech Stack 
 
-* Services (job queues, cache servers, search engines, etc.)
+# BACKEND
+Ruby on Rails,
+Rails Active Storage,
+Rack-Cors,
+Active Model Serializers,
+Devise,
 
-* Deployment instructions
+# FRONTEND
+React,
+React-router-dom,
+Bootstrap
+Material UI
 
-* ...
+
+
