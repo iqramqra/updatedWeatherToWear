@@ -2,7 +2,7 @@ Welcome to Weather to Wear, an application that helps you choose your outfit bas
 
 The main feature of this app is that you are able to virtually store your closet by uploading pictures, which are used to recommend your outfits!
 
-# USER STORY 
+## USER STORY 
 
 As a user you are able to create an account.
 
@@ -14,19 +14,19 @@ As a user you will be recommeneded outfits bases on the weather conditions and t
 
 As a user you are able to delete a pieace of cloathing from your virtual closet.
 
-## Tech Stack 
+# Tech Stack 
 
-# BACKEND
+## BACKEND
 Ruby on Rails,
 Rails Active Storage,
 Rack-Cors,
 Active Model Serializers,
 Devise,
 
-# FRONTEND
+## FRONTEND
 React,
 React-router-dom,
-Bootstrap
+Bootstrap,
 Material UI
 
 
