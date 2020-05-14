@@ -21,7 +21,7 @@ Ruby on Rails,
 Rails Active Storage,
 Rack-Cors,
 Active Model Serializers,
-Devise
+Devise(Not using it anymore)
 
 ## FRONTEND
 React,
